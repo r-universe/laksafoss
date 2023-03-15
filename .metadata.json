@@ -1,5 +1,9 @@
 [
   {
+    "package": "EpiForsk",
+    "oncran": true
+  },
+  {
     "package": "tame",
     "oncran": true
   }
